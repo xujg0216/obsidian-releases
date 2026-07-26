@@ -42418,5 +42418,12 @@
     "author": "Aluxes",
     "description": "Presents a dedicated Markdown file as a threaded record flow. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ashenashes/floor-notes"
+  },
+  {
+      "id": "inline-translate",
+      "name": "Inline Translate",
+      "author": "xujg0216",
+      "description": "划词翻译：选中文本（PDF/笔记）后弹出翻译按钮，点击翻译为中文。兼容 pdf-plus。",
+      "repo": "xujg0216/obsidian-inline-translate"
   }
 ]
